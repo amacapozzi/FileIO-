@@ -1,0 +1,10 @@
+C:\Users\amaca\Documents\Works\FileIO\FileIO\bin\Debug\FileIO.exe.config
+C:\Users\amaca\Documents\Works\FileIO\FileIO\bin\Debug\FileIO.exe
+C:\Users\amaca\Documents\Works\FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\Users\amaca\Documents\Works\FileIO\FileIO\obj\Debug\FileIO.csproj.AssemblyReference.cache
+C:\Users\amaca\Documents\Works\FileIO\FileIO\obj\Debug\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\amaca\Documents\Works\FileIO\FileIO\obj\Debug\FileIO.exe
+C:\Users\amaca\Documents\Works\FileIO\FileIO\obj\Debug\FileIO.pdb
+C:\Users\amaca\Documents\Works\FileIO\FileIO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amaca\Documents\Works\FileIO\FileIO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amaca\Documents\Works\FileIO\FileIO\obj\Debug\FileIO.csproj.CopyComplete
